@@ -1,12 +1,12 @@
-### E aí?!👋🏻
-### Eu sou o Muriel Zounar! 
+### Hey!👋🏻
+### I'm Muriel Zounar! 
 ##
-#### Um pouco sobre mim:
-  - 🔭 Atualmente trabalho na TOTVS e sou desenvolvedor ADVPL;
-  - 🌱 Adoro aprender, no momento estou estudando front-end;
-  - 🐶 Amo os animais (mas confesso, mais os cachorros);
-  - 📖 Gosto de bons livros;
-  - 🎮 Gamer no tempo livre.
+#### About me:
+  - 🔭 I currently work at TOTVS as ADVPL developer ;
+  - 🌱 I Love to learn, i'm studying front-end;
+  - 🐶 I Love animals, spacially dogs;
+  - 📖 I like to read good books;
+  - 🎮 Gamer in free time.
   
 <div align="left">
   <a href="https://github.com/rafaballerini">
@@ -25,17 +25,9 @@
   ##
   
 <div> 
-  <a href="https://www.instagram.com/muriel.zounar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/murielzounar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:muriel.zounar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/murielzounar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-<br>
-<br>
-<br>
-<div align="center">
-  <h2>ESSE ANO O HEXA VEM! 🤞🏻</h2>
-  <h1>VAI BRASIL!!!</h1>
-  <img align="center" alt="ADVPL Icon" height="150" width="240" src="https://user-images.githubusercontent.com/77307635/203823539-377ffe82-6f72-45d5-ae30-30d1504ec496.gif">
+  <a href="https://www.instagram.com/muriel.zounar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 <!--
