@@ -2,7 +2,7 @@
 ### I'm Muriel Zounar! 
 ##
 #### About me:
-  - 🔭 I currently work at TOTVS as ADVPL developer ;
+  - 🔭 I currently work at TOTVS as ADVPL developer;
   - 🌱 I Love to learn, i'm studying front-end;
   - 🐶 I Love animals, spacially dogs;
   - 📖 I like to read good books;
@@ -19,7 +19,6 @@
   <img align="center" alt="HTML Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Flutter Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 </div>
 
   ##
