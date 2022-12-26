@@ -10,8 +10,8 @@
   
 <div align="left">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MurielZounar&show_icons=true&title_color=57C650&text_color=FFF574&icon_color=3E70D4&bg_color=191D27&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurielZounar&layout=compact&langs_count=7&title_color=57C650&text_color=FFF574&bg_color=191D27"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MurielZounar&show_icons=true&title_color=15cfb3&text_color=FFFFFF&icon_color=8f21de&bg_color=0f0f0f&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurielZounar&layout=compact&langs_count=7&title_color=15cfb3&text_color=FFFFFF&bg_color=0f0f0f"/>
 </div>
 
 <div style="display: inline_block"><br>
