@@ -2,17 +2,10 @@
 ### I'm Muriel Zounar! 
 ##
 #### About me:
-  - 🔭 I currently work at TOTVS as ADVPL developer;
-  - 🌱 I Love to learn, i'm studying front-end;
-  - 🐶 I Love animals, spacially dogs;
-  - 📖 I like to read good books;
-  - 🎮 Gamer in free time.
-  
-<div align="left">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MurielZounar&show_icons=true&title_color=15cfb3&text_color=FFFFFF&icon_color=8f21de&bg_color=0f0f0f&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurielZounar&layout=compact&langs_count=7&title_color=15cfb3&text_color=FFFFFF&bg_color=0f0f0f"/>
-</div>
+  - 🔭 I currently work at TOTVS as ADVPL developer
+  - 🌱 Always learning. Now i'm studying front-end
+  - 🐶 Animals are my passion, spacially dogs
+  - 🎮 Gamer in free time
 
 <div style="display: inline_block"><br>
   <img align="center" alt="ADVPL Icon" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_advpl_icon_130762.png">
