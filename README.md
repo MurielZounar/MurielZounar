@@ -1,27 +1,65 @@
-### Hey!👋🏻
-### I'm Muriel Zounar! 
-##
-#### About me:
-  - 🔭 I currently work at TOTVS as ADVPL developer
-  - 🌱 Always learning. Now i'm studying front-end
-  - 🐶 Animals are my passion, spacially dogs
-  - 🎮 Gamer in free time
+# Hi, I'm Muriel! 👋
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="ADVPL Icon" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_advpl_icon_130762.png">
-  <img align="center" alt="HTML Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+I'm a developer currently focused on improving my skills in **Python** 🐍.  
+For the past 3 years, I've been working at **TOTVS**, developing customizations for the **Protheus ERP** using the **ADVPL** programming language.
+
+I also have basic knowledge of **HTML**, **CSS**, and **JavaScript**.
+
+---
+
+### 🚀 Hard Skills
+<div>
+    <ul>
+        <li>
+            <p><img align="center" alt="Python Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <strong>Python</strong></p>
+        </li>
+        <li>
+            <p><img align="center" alt="HTML Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <strong>HTML</strong></p>
+        </li>
+        <li>
+            <p><img align="center" alt="CSS Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <strong>CSS</strong></p>
+        </li>
+        <li>
+            <p><img align="center" alt="JavaScript Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"> <strong>JavaScript</strong></p>
+        </li>
+        <li>
+            <p><img align="center" alt="ADVPL Icon" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_advpl_icon_130762.png"> <strong>ADVPL</strong></p>
+        </li>
+    </ul>
 </div>
 
-  ##
-  
-<div> 
-  <a href="https://www.linkedin.com/in/murielzounar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:muriel.zounar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/muriel.zounar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+---
 
-<!--
-  https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md#personaliza%C3%A7%C3%A3o
--->
+### 🧠 Soft Skills
+
+- 📢 **Communication**
+- 💪🏻 **Resilience**
+- 💡 **Creativity**
+- 🫱🏻‍🫲🏻 **Teamwork**
+- ⏳ **Time Management**
+- 🧭 **Adaptability**
+
+---
+
+### 🙌 About Me
+
+- ✝️ Christian
+- 💍 Married
+- 🧐 Curious
+- 🎯 Always looking to learn new things and grow as a person and professional
+- 🐶 Animal lover
+
+In my free time, I enjoy:
+- 🧑🏻‍💻 Working on side projects to practice
+- 🍿 Watching movies and series with my wife
+- 📚 Studying programming
+- 🎮 Playing FPS games
+
+---
+
+</br>
+</br>
+
+> "For the Lord gives wisdom;  
+> from His mouth come knowledge and understanding."  
+> — Proverbs 2:6
